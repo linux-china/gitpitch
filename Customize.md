@@ -39,4 +39,9 @@ git {
            {}
 ```
 
+* decktape install for pdf export
 
+
+### References
+
+* Server Deploy Instructions: https://github.com/gitpitch/gitpitch/wiki/Server-Deploy-Instructions
